@@ -1,1 +1,1 @@
-# nodeProject02
+# nodeProject02 with Node, Express, POSTGRESQL and REACT.
